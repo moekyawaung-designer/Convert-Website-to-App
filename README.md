@@ -21,7 +21,6 @@ This template creates a **native mobile app wrapper** around your existing websi
 - Install your app from app stores
 - See your app icon on their home screen
 - Access your content through a native app interface
-- Receive push notifications (if configured)
 
 ## 🎯 Who Is This For?
 
@@ -163,10 +162,6 @@ Ensure Android Studio is properly installed with SDK version 33 or higher.
 - [Capacitor Documentation](https://capacitorjs.com/docs)
 - [Apple App Store Guidelines](https://developer.apple.com/app-store/review/guidelines/)
 - [Google Play Store Guidelines](https://play.google.com/about/developer-content-policy/)
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📄 License
 
