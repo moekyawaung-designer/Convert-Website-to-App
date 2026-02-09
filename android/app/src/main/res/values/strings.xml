@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">The Lion</string>
+    <string name="title_activity_main">convert-website-to-app</string>
+    <string name="package_name">com.botgroupllc.convertwebsitetoapp</string>
+    <string name="custom_url_scheme">com.botgroupllc.convertwebsitetoapp</string>
+</resources>
