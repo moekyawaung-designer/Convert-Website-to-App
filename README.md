@@ -128,7 +128,7 @@ Your website MUST follow these guidelines:
 
 Don't want to do it yourself? We offer a **done-for-you service**:
 
-**[Website to App Conversion Service - $2,500](https://botgroupllc.com/website-to-app.html)**
+**[Website to App Conversion Service](https://webapppasta.com)**
 
 Includes:
 - Complete app setup and configuration
@@ -169,9 +169,8 @@ This project is open source and available under the MIT License.
 
 ## 🔗 Links
 
-- **Website to App Service**: [https://botgroupllc.com/website-to-app.html](https://botgroupllc.com/website-to-app.html)
+- **Website to App Service**: [https://webapppasta.com](https://webapppasta.com)
 - **YouTube Tutorial**: [https://youtu.be/yAeDQAA1QjY](https://youtu.be/yAeDQAA1QjY)
-- **Bot Group LLC**: [https://botgroupllc.com](https://botgroupllc.com)
 
 ## ⭐ Support This Project
 
