@@ -169,7 +169,7 @@ This project is open source and available under the MIT License.
 
 ## 🔗 Links
 
-- [Website to App Conversion Service | App Store & Google Play Store](https://webapppasta.com)
+- [Website to App Conversion Service | App Store & Google Play Store](https://webapppasta.com/?channel=github&utm_medium=readme&utm_campaign=website-to-app)
 - [Convert Website to App Video Tutorial (YouTube)](https://youtu.be/yAeDQAA1QjY)
 
 ## ⭐ Support This Project
