@@ -128,7 +128,7 @@ Your website MUST follow these guidelines:
 
 Don't want to do it yourself? We offer a **done-for-you service**:
 
-**[Website to App Conversion Service](https://webapppasta.com)**
+**[Website to App Conversion Service](https://webapppasta.com/?channel=github&utm_medium=readme&utm_campaign=website-to-app)**
 
 Includes:
 - Complete app setup and configuration
