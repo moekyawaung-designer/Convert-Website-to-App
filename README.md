@@ -128,7 +128,7 @@ Your website MUST follow these guidelines:
 
 Don't want to do it yourself? We offer a **done-for-you service**:
 
-**[Website to App Conversion Service](https://webapppasta.com/?channel=github&utm_medium=readme&utm_campaign=website-to-app)**
+**[Website to App Conversion Service](https://webapppasta.com/?channel=github&utm_medium=readme&utm_campaign=convert-website-to-app)**
 
 Includes:
 - Complete app setup and configuration
@@ -169,7 +169,7 @@ This project is open source and available under the MIT License.
 
 ## 🔗 Links
 
-- [Website to App Conversion Service | App Store & Google Play Store](https://webapppasta.com/?channel=github&utm_medium=readme&utm_campaign=website-to-app)
+- [Website to App Conversion Service | App Store & Google Play Store](https://webapppasta.com/?channel=github&utm_medium=readme&utm_campaign=convert-website-to-app)
 - [Convert Website to App Video Tutorial (YouTube)](https://youtu.be/yAeDQAA1QjY)
 
 ## ⭐ Support This Project
