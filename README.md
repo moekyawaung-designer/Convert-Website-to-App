@@ -2,7 +2,7 @@
 
 [![AI Website to App Tutorial](https://img.youtube.com/vi/yAeDQAA1QjY/maxresdefault.jpg)](https://youtu.be/yAeDQAA1QjY)
 
-> Convert your mobile-friendly website into native iOS and Android apps using this free Ionic template. Perfect for businesses, bloggers, and developers who want to offer a mobile app experience without building from scratch.
+> Convert your mobile-friendly website into native iOS and Android apps using this free Ionic template.
 
 ## 🚀 Features
 
@@ -18,16 +18,9 @@
 ## 📱 What You Get
 
 This template creates a **native mobile app wrapper** around your existing website. Your website remains the same, but users can:
-- Install your app from app stores
+- Install your app from app stores (once published)
 - See your app icon on their home screen
 - Access your content through a native app interface
-
-## 🎯 Who Is This For?
-
-- **Business owners** who want a mobile app without hiring developers
-- **Bloggers** who want to reach mobile audiences through app stores
-- **SaaS companies** who want to wrap their web app as a mobile app
-- **Developers** looking for a quick website-to-app solution
 
 ## 📋 Prerequisites
 
@@ -36,8 +29,6 @@ Before you start, make sure you have:
 - Node.js installed (v16 or higher)
 - Xcode (for iOS development) - Mac only
 - Android Studio (for Android development)
-- Apple Developer Account ($99/year)
-- Google Play Developer Account ($25 one-time)
 
 ## 🛠️ Installation & Setup
 
@@ -57,14 +48,9 @@ href="https://yourwebsite.com"; // Change this to your website URL
 
 ### Step 3: Customize App Identity
 
-Edit `capacitor.config.ts`:
-```typescript
-{
-  appId: 'com.yourcompany.yourapp', // Change to your unique app ID
-  appName: 'Your App Name', // Change to your app name
-  // ...
-}
-```
+Find and replace instances of `com.botgroupllc.convertwebsitetoapp` with your app ID in the project files.
+Find and replace `The Lion` with your desired app name in the project files.
+
 
 ### Step 4: Build for iOS
 ```bash
@@ -86,12 +72,7 @@ Then build and deploy from Android Studio.
 
 ## 📺 Video Tutorial
 
-Watch the complete step-by-step tutorial: [How to Convert Your Website to a Mobile App with AI](https://youtu.be/yAeDQAA1QjY)
-
-In this 15-minute video, you'll learn:
-- How to configure the template for your website
-- Key mobile friendly requirements
-- Common troubleshooting tips
+Watch the video: [How to Convert Your Website to a Mobile App with AI](https://youtu.be/yAeDQAA1QjY)
 
 ## 🎨 Customization
 
@@ -101,14 +82,10 @@ In this 15-minute video, you'll learn:
 Basic familiarity with command line is helpful, but the tutorial walks you through everything step-by-step.
 
 ### Will my website need to change?
-Your website should be mobile-friendly and responsive. No backend changes needed.
+Your website should be mobile-friendly and responsive. Backend changes are not typically required.
 
 ### How do updates work?
 Since the app loads your website, any changes to your website automatically appear in the app. No app store updates required for content changes.
-
-### What about app store fees?
-- Apple App Store: $99/year
-- Google Play Store: $25 one-time fee
 
 ### Can I add native features?
 Yes! This template supports Capacitor plugins for camera access, geolocation, push notifications, and more.
@@ -121,12 +98,10 @@ Your website MUST follow these guidelines:
 - ✅ No "island" pages (users must be able to navigate back)
 - ✅ External links open in new tabs (`target="_blank"`)
 - ✅ Fast loading times
-- ❌ No pop-ups that block mobile navigation
-- ❌ No desktop-only features
 
 ## 💼 Need Professional Help?
 
-Don't want to do it yourself? We offer a **done-for-you service**:
+Don't want to do this yourself? We offer a **done-for-you service**:
 
 **[Website to App Conversion Service](https://webapppasta.com/?channel=github&utm_medium=readme&utm_campaign=convert-website-to-app)**
 
@@ -136,10 +111,10 @@ Includes:
 - Testing on both iOS and Android
 - App Store and Google Play submission
 - Support through the review process
-- 1-2 week turnaround time (approval could take longer)
+- 1-2 week turnaround time (typically)
 - Improved template with caching (e.g. for user session save) and offline detection
 
-[Book a Free Consultation](https://calendly.com/jamesonsaunders/website-to-app-dfy)
+[Book a Free Consultation](https://calendly.com/jamesonsaunders/web-app-pasta)
 
 ## 🐛 Troubleshooting
 
@@ -182,4 +157,4 @@ If this template helped you, please:
 
 ---
 
-**Made with ❤️ by [Jameson Saunders](https://jamesonsaunders.com)**
+**Made with ❤️ by Jameson Saunders
