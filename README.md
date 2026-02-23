@@ -74,8 +74,6 @@ Then build and deploy from Android Studio.
 
 Watch the video: [How to Convert Your Website to a Mobile App with AI](https://youtu.be/yAeDQAA1QjY)
 
-## 🎨 Customization
-
 ## ❓ Frequently Asked Questions
 
 ### Do I need coding experience?
@@ -118,18 +116,12 @@ Includes:
 
 ## 🐛 Troubleshooting
 
-### Build Errors
-```bash
-# Clear node modules and reinstall
-rm -rf node_modules package-lock.json
-npm install
-```
-
 ### iOS Build Issues
 Make sure you're using the latest Xcode version and have iOS development certificates configured.
 
 ### Android Build Issues
 Ensure Android Studio is properly installed with SDK version 33 or higher.
+Gradle 21.0.7
 
 ## 📚 Resources
 
